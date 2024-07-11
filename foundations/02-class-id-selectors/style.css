@@ -1,20 +1,9 @@
 p{
-    font-family: verdana,DejaVu Sans,sans-serif;
-    background-color: rgb(192, 48, 137);
-
+    background-color: rgb(190, 38, 114);
+    font-family: Verdana,DejaVu Sans,sans-serif;
 }
-#second{
-    color: blue;
+#t{
     font-size: 36px;
-}
-#third{
-    font-size: 24px;
-
-}
-#fourth{
-    font-size: 24px;
-    font-family: 800;
-    background-color: lightgreen;
-
+    color: blue;
 
 }
